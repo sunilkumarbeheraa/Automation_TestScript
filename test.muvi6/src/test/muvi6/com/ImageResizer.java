@@ -14,6 +14,7 @@ import javax.imageio.ImageIO;
  *
  */
 public class ImageResizer {
+	
  
     /**
      * Resizes an image to a absolute width and height (the image may not be

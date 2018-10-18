@@ -7,6 +7,7 @@ public class DataGetFile {
 	private String role;
 	private String salary;
 	public int getId() {
+		
 		return id;
 	}
 	public void setId(int id) {
